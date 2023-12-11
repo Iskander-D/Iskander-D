@@ -10,7 +10,6 @@
 <img width="7%" title="Allure Report" src="files/Allure.svg">
 <img width="7%" title="Gradle" src="files/Gradle.svg">
 <img width="7%" title="JUnit5" src="files/Junit5.svg">
-<img width="7%" title="GitHub" src="files/GitHub.svg">
 <img width="7%" title="Jenkins" src="files/Jenkins.svg">
 </p>
 
