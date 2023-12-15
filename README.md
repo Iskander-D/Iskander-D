@@ -9,7 +9,7 @@
 ### Contacts
 
 <a href = "mailto:drozenko21@gmail.com"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
-
+<a href = "https://t.me/is_kander"><img width="7%" title="Telegram" src="files/icons8-telegram.svg"></a>
 
 
 
