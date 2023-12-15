@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alex 👋</h1>
 
-### 👨🏻‍💻 &nbsp;About Me <img width="25%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
+### 👨🏻‍💻 &nbsp;About Me <img width="35%" src="files/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" align="right"/>
 
 💡 &nbsp;I like to explore new technologies.\
 💾 &nbsp;I do automated testing of test cases. \
@@ -8,9 +8,9 @@
 &nbsp;
 ### Contacts
 
-<a href = "mailto:drozenko21@gmail.com"><img width="5%" title="Gmail" src="files/icons8-gmail.svg"></a>
-<a href = "https://t.me/is_kander"><img width="5%" title="Telegram" src="files/icons8-telegram.svg"></a>   
-<a href = "https://www.instagram.com/iskanderdr/"><img width="5%" title="Instagram" src="files/icons8-instagram.svg"></a>
+<a href = "mailto:drozenko21@gmail.com"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
+<a href = "https://t.me/is_kander"><img width="7%" title="Telegram" src="files/icons8-telegram.svg"></a>   
+
 
 
 
