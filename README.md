@@ -1,4 +1,4 @@
-<!--### 👋 &nbsp;Hey there! I'm Alex -->
+<h1 align="center">Hi there, I'm Alex 👋</h1>
 
 
 
