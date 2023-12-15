@@ -7,8 +7,8 @@
 🎓 &nbsp;I'm on track for learning more about QA automation.\
 &nbsp;
 ### Contacts
-<img width="7%" title="Gmail" src="files/icons8-gmail.svg">(https://www.instagram.com/mrabbadester2/)
 
+<a href="https://www.instagram.com/flaviadiegoli/" target="_blank"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
 
 
 
