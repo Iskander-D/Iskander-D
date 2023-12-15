@@ -1,4 +1,10 @@
-## 👋 &nbsp;Hey there! I'm Alex 
+<h1 align="center">Hi there, I'm Alex 👋</h1>
+
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I like to explore new technologies.\
+💾 &nbsp;I do automated testing of test cases. \
+🎓 &nbsp;I'm on track for learning more about QA automation.\
+
 
 
 ## Tech Stack
@@ -11,6 +17,7 @@
 <img width="7%" title="Gradle" src="files/Gradle.svg">
 <img width="7%" title="JUnit5" src="files/Junit5.svg">
 <img width="7%" title="Jenkins" src="files/Jenkins.svg">
+<img width="7%" title="Allure" src="files/Allure_TO.svg">
 </p>
 
 
