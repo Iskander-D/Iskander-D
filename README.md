@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies.\
 💾 &nbsp;I do automated testing of test cases. \
-🎓 &nbsp;I'm on track for learning more about QA automation .\
+🎓 &nbsp;I'm on track for learning more about QA automation.\
 
 
 
