@@ -31,7 +31,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=nord)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=nord)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=react)
 
