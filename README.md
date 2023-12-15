@@ -29,11 +29,11 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrabbadester&hide=Html&theme=nord_dark)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrabbadester&theme=nord_dark)
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrabbadester&theme=nord_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrabbadester&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrabbadester&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrabbadester&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=algolia)
 
