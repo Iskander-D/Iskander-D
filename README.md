@@ -32,6 +32,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=city_lights)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=city_lights)
 
