@@ -8,7 +8,7 @@
 &nbsp;
 ### Contacts
 
-<a href="https://www.instagram.com/flaviadiegoli/" target="_blank"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
+<a href="drozenko21@gmail.com" target="_blank"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
 
 
 
