@@ -29,9 +29,9 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrabbadester&hide=Html&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrabbadester&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrabbadester&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iskander-D&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=nord_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=algolia)
