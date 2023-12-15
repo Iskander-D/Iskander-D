@@ -8,7 +8,7 @@
 &nbsp;
 ### Contacts
 
-<a href="drozenko21@gmail.com" target="_blank"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
+<a href="https://drozenko21@gmail.com" target="_blank"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
 
 
 
