@@ -11,7 +11,17 @@
 <a href = "mailto:drozenko21@gmail.com"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
 <a href = "https://t.me/is_kander"><img width="7%" title="Telegram" src="files/icons8-telegram.svg"></a>   
 
+## :man_student: Diploma projects at [QA GURU](https://qa.guru/)
 
+<p align="left">  
+ <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
+</p>
+ 
+  |      Project name               |                   GitHub links                                   
+  |-------------------------------- |-------------------------------------------------------|
+  |         UI tests                |https://github.com/Iskander-D/obsessedgarage_UI_project|  
+  |        API tests                |   https://github.com/Iskander-D/reqresh_API_project   |  
+  |       Mobile tests              |   https://github.com/Iskander-D/wiki_MOBILE_project   |  
 
 
 
