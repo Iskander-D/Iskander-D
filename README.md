@@ -48,5 +48,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iskander-D&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iskander-D&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iskander-D&theme=nord_dark)  ![](https://komarev.com/ghpvc/?username=Iskander-D)
 
