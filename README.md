@@ -16,8 +16,8 @@
 <p align="left">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
  </p>
- - ✔️ **QA.GURU: School of Test Automation Engineers on Java |**
- - [`Click to view certificate`](https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing)
+ <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> title="Telegram" </a>   
+ 
  
  
   |      Project name               |                   GitHub links                                   
