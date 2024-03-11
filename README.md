@@ -15,6 +15,7 @@
 
 <p align="left">  
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
+ - [`Click to view certificate`](https://drive.google.com/drive/u/0/home)
 </p>
  
   |      Project name               |                   GitHub links                                   
