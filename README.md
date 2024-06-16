@@ -12,9 +12,8 @@
 <a href = "https://t.me/is_kander"><img width="7%" title="Telegram" src="files/icons8-telegram.svg"></a>   
 
 ## Diploma projects at [QA GURU](https://qa.guru/)
-
-📃 &nbsp <p align="left">  
-  <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> Click to view certificate </a> 
+<p align="left">
+📃 &nbsp; <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> Click to view certificate </a> 
  </p>
  
 
