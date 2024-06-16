@@ -11,10 +11,9 @@
 <a href = "mailto:drozenko21@gmail.com"><img width="7%" title="Gmail" src="files/icons8-gmail.svg"></a>
 <a href = "https://t.me/is_kander"><img width="7%" title="Telegram" src="files/icons8-telegram.svg"></a>   
 
-## :man_student: Diploma projects at [QA GURU](https://qa.guru/)
+## Diploma projects at [QA GURU](https://qa.guru/)
 
 <p align="left">  
- <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
   <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> Click to view certificate </a> 
  </p>
  
