@@ -13,7 +13,7 @@
 
 ## Diploma projects at [QA GURU](https://qa.guru/)
 
-<p align="left">  
+📃 &nbsp <p align="left">  
   <a href = "https://drive.google.com/file/d/14KtJrymCEdnWrc_lEDs_kE6OcRDrqHBj/view?usp=sharing"> Click to view certificate </a> 
  </p>
  
